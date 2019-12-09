@@ -77,31 +77,13 @@
         android:layout_width="141dp"
         android:layout_height="83dp"
         android:layout_marginStart="150dp"
-        android:layout_marginLeft="150dp"
-        android:layout_marginTop="50dp"
-        android:layout_marginEnd="50dp"
-        android:layout_marginRight="50dp"
-        android:layout_marginBottom="50dp"
-        android:text="Run with grammar"
-        app:layout_constraintBottom_toTopOf="@+id/translatedTv"
-        app:layout_constraintEnd_toStartOf="@+id/translateButton2"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/inputToTranslate" />
-
-    <Button
-        android:id="@+id/translateButton2"
-        android:layout_width="135dp"
-        android:layout_height="83dp"
-        android:layout_marginStart="50dp"
-        android:layout_marginLeft="50dp"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="150dp"
-        android:layout_marginRight="150dp"
         android:layout_marginBottom="50dp"
-        android:text="Run without grammar"
+        android:text="Translate"
         app:layout_constraintBottom_toTopOf="@+id/translatedTv"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/translateButton"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/inputToTranslate" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

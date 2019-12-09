@@ -26,5 +26,57 @@ public class Languages {
         l.add("arabic");
         languages.put("armenian", "hy");
         l.add("armenian");
+        languages.put("malayalam", "m1");
+        l.add("malayalam");
+
+        languages.put("english", "en");
+        l.add("english");
+
+        languages.put("tamil", "ta");
+        l.add("tamil");
+
+        languages.put("ukranian", "uk");
+        l.add("ukranian");
+
+        languages.put("tagalog", "t1");
+        l.add("tagalog");
+
+        languages.put("latin", "la");
+        l.add("latin");
+
+        languages.put("danish", "da");
+        l.add("danish");
+
+        languages.put("afrikaans", "af");
+        l.add("afrikaans");
+
+        languages.put("dutch", "n1");
+        l.add("dutch");
+
+        languages.put("danish", "da");
+        l.add("danish");
+        languages.put("croatian", "hr");
+        l.add("croatian");
+        languages.put("czech", "cs");
+        l.add("czech");
+        languages.put("frisian", "fy");
+        l.add("frisian");
+        languages.put("georgian", "ka");
+        l.add("georgian");
+        languages.put("hebrew", "he");
+        l.add("hebrew");
+        languages.put("indonesian", "id");
+        l.add("indonesian");
+        languages.put("danish", "da");
+        l.add("danish");
+        languages.put("lao", "lo");
+        l.add("lao");
+        languages.put("tajik", "tg");
+        l.add("tajik");
+        languages.put("thai", "th");
+        l.add("thai");
+        languages.put("zulu", "zu");
+        l.add("zulu");
+
     }
 }
